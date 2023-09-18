@@ -1,6 +1,7 @@
+
 <h1 align="center">The name's Nadia Clarissa Hermawan</h1>
 <h3 align="center">A sociable and inquisitive person who really enjoys learning something new as well as sharing it with people around me. My main focus is to develop my programming and communication skills.</h3>
-<img align="right" alt="hello" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="hello" width="400" src="https://media.giphy.com/avatars/Jennyayc/Yqn60olJTBw6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadiaclarissahermawan&label=Profile%20views&color=0e75b6&style=flat" alt="nadiaclarissahermawan" /> </p>
 
@@ -20,6 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadiaclarissahermawan&show_icons=true&locale=en&layout=compact" alt="nadiaclarissahermawan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadiaclarissahermawan&show_icons=true&locale=en" alt="nadiaclarissahermawan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadiaclarissahermawan&" alt="nadiaclarissahermawan" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nadiaclarissahermawan&show_icons=true&locale=en" alt="nadiaclarissahermawan" /></p>
