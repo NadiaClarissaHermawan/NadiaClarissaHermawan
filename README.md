@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nadiaclarissahermawan@gmail.com**
 
-- ⚡ Random stuff that I like: **Book - Manga - Painting - Music - Game - Eat - Sleep - Hamster**
+- ⚡ Random stuff that I like: **Book - Manga - Painting - Music - Game - Hamster**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
