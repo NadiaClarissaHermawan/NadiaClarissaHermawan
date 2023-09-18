@@ -1,5 +1,5 @@
 
-<h1 align="center">The name's Nadia Clarissa Hermawan</h1>
+<h1 align="center">The name's Nadia Clarissa H.</h1>
 <h3 align="center">A sociable and inquisitive person who really enjoys learning something new as well as sharing it with people around me. My main focus is to develop my programming and communication skills.</h3>
 <img align="right" alt="hello" width="400" src="https://media.giphy.com/avatars/Jennyayc/Yqn60olJTBw6.gif">
 
