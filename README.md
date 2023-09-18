@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nadiaclarissahermawan@gmail.com**
 
-- ⚡ Fun fact **Learning is a never-ending process.**
+- ⚡ Random stuff that I like: **Book - Manga - Painting - Music - Game - Eat - Sleep - Hamster**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
